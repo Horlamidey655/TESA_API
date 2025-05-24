@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 });
 
 
-app.get('/me', (req, res) => {
+app.get('/weq', (req, res) => {
  res.send('Hi everyone, this is koke!. Pay your respects');
 });
 
